@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="arrayDias">
+
+
+
+
+        <item> lunes </item>
+        <item> martes</item>
+        <item> miercoles</item>
+        <item> jueves</item>
+        <item> viernes</item>
+        <item> sabado</item>
+        <item> domingo</item>
+
+
+    </string-array>
+
+
+
+</resources>
